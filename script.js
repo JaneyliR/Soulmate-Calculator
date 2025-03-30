@@ -68,9 +68,9 @@ document.getElementById("soulmateForm").addEventListener("submit", function(even
       setTimeout(() => alert("Ooooo! I knew it was meant to be! <3"), 2000);
     }
     else if (percentage > 50) {
-      setTimeout(() => alert("Wow. That's great. Are you going take your chances?"),2000);
+      setTimeout(() => alert("Wow! Are you going take your chances?"),2000);
     }
     else {
-      setTimeout(() => alert("I mean... you could always change your name so you get a higher score."), 2000);
+      setTimeout(() => alert("I mean... you could always change your name to get a higher score."), 2000);
     }
 });
