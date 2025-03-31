@@ -60,7 +60,7 @@ document.getElementById("soulmateForm").addEventListener("submit", function(even
 
     // Displays Results
     document.getElementById("result").innerHTML = `
-        <p>There's an <strong>${percentage}% chance that you two are Soulmates!</strong></p>
+        <p>There's a <strong>${percentage}% chance that you two are Soulmates!</strong></p>
     `;
 
     //Displays message based on percentage score
