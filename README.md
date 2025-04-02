@@ -2,7 +2,7 @@
 I created this so you can see if you and your crush have any chance of being soulmates. This was a fun and simple project. 
 
 ## Try it Out!
-Check it out here: [Soulmate Calculator](https://soulmate-calculator.vercel.app/)
+Check it out here: [Soulmate Calculator](https://soulmatecalculator.vercel.app/)
 ## How It Works
 1. Just type in your name and their name.
 2. Press Calculate.
